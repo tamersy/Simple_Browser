@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Simple_Browser\Simple_Browser\bin\Debug\Simple_Browser.exe.config
+C:\Users\USER\source\repos\Simple_Browser\Simple_Browser\bin\Debug\Simple_Browser.exe
+C:\Users\USER\source\repos\Simple_Browser\Simple_Browser\bin\Debug\Simple_Browser.pdb
+C:\Users\USER\source\repos\Simple_Browser\Simple_Browser\obj\Debug\Simple_Browser.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Simple_Browser\Simple_Browser\obj\Debug\Simple_Browser.Form1.resources
+C:\Users\USER\source\repos\Simple_Browser\Simple_Browser\obj\Debug\Simple_Browser.Properties.Resources.resources
+C:\Users\USER\source\repos\Simple_Browser\Simple_Browser\obj\Debug\Simple_Browser.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Simple_Browser\Simple_Browser\obj\Debug\Simple_Browser.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Simple_Browser\Simple_Browser\obj\Debug\Simple_Browser.exe
+C:\Users\USER\source\repos\Simple_Browser\Simple_Browser\obj\Debug\Simple_Browser.pdb
